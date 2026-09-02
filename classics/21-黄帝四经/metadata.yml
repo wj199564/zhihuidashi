@@ -1,0 +1,12 @@
+title: '黄帝四经'
+number: 21
+source_type: 'wikisource'
+source_id: ''
+source_urls:
+  - 'https://zh.wikisource.org/wiki/%E9%BB%83%E5%B8%9D%E5%9B%9B%E7%B6%93'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 30636
+lines: 614
+sha256: '1bc7335c64f0230178660781de91f87667460d62a6f8dbb41b814c99037b9e68'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

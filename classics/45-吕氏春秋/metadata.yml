@@ -1,0 +1,12 @@
+title: '吕氏春秋'
+number: 45
+source_type: 'kanripo'
+source_id: 'KR3j0009'
+source_urls:
+  - 'https://github.com/kanripo/KR3j0009'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 210949
+lines: 14318
+sha256: '42c323be914ddc698f03b39521c0b16471089e72bbf40971c05fafbe4b6ee733'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

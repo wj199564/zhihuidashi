@@ -1,0 +1,12 @@
+title: '穆天子传'
+number: 49
+source_type: 'kanripo'
+source_id: 'KR3l0092'
+source_urls:
+  - 'https://github.com/kanripo/KR3l0092'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 18206
+lines: 1194
+sha256: '6454431cc53d79ac9520fc165f5a1d25b1e2a9139d969d8fac1c055cb1f634e0'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

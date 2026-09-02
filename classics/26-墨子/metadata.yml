@@ -1,0 +1,12 @@
+title: '墨子'
+number: 26
+source_type: 'kanripo'
+source_id: 'KR3j0002'
+source_urls:
+  - 'https://github.com/kanripo/KR3j0002'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 90111
+lines: 8004
+sha256: '75aa1586684346f36382e8353edfdf8461670977c018309b69930c401ef97622'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '庄子'
+number: 19
+source_type: 'webbin'
+source_id: ''
+source_urls:
+  - 'https://github.com/webbin/chinese-classics'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 81293
+lines: 70
+sha256: 'ca670e7256784b7c5efbc9a4cd60ad95c025f1df54899629477b88f22bdfb9b8'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

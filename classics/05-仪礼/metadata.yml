@@ -1,0 +1,12 @@
+title: '仪礼'
+number: 5
+source_type: 'kanripo'
+source_id: 'KR1d0026'
+source_urls:
+  - 'https://github.com/kanripo/KR1d0026'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 168117
+lines: 11379
+sha256: 'f57aabd106d35b3d275a6b58ba8dd4edee96b3c126a4af74543271909f7708aa'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

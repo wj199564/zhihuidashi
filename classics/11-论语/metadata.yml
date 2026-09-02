@@ -1,0 +1,12 @@
+title: '论语'
+number: 11
+source_type: 'kanripo'
+source_id: 'KR1h0004'
+source_urls:
+  - 'https://github.com/kanripo/KR1h0004'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 35063
+lines: 7792
+sha256: '30432b68a05dbc903e5fbb264e574fd22c3971578e90ca72d92c6d74d166f6c1'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

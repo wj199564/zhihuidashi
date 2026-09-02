@@ -1,0 +1,12 @@
+title: '谷梁传'
+number: 10
+source_type: 'kanripo'
+source_id: 'KR1e0008'
+source_urls:
+  - 'https://github.com/kanripo/KR1e0008'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 91425
+lines: 19576
+sha256: 'edc759820d1eb5bfe8110e3ac6b4f251e1efe360bb20ce946bab3b101e30a860'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

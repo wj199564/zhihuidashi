@@ -1,0 +1,12 @@
+title: '文子'
+number: 23
+source_type: 'kanripo'
+source_id: 'KR5c0118'
+source_urls:
+  - 'https://github.com/kanripo/KR5c0118'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 46348
+lines: 4104
+sha256: '5d48aa5b4fbe6471831a96c7dc6a0fa506b6108d1a201756a4c9abf78e98ae4f'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

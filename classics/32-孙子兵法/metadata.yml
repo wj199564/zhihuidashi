@@ -1,0 +1,12 @@
+title: '孙子兵法'
+number: 32
+source_type: 'kanripo'
+source_id: 'KR3b0003'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0003'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 8859
+lines: 850
+sha256: 'ea74ef24cbea08a88bef97f66b9aee52fe2eff6c8b741d1d14cfd1b46f45d2da'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

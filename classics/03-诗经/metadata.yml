@@ -1,0 +1,12 @@
+title: '诗经'
+number: 3
+source_type: 'kanripo'
+source_id: 'KR1c0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1c0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 81713
+lines: 19917
+sha256: '13e18762470dcd064a356af704b1d148606e729a4917897854d6a383511f0360'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

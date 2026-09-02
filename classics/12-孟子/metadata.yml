@@ -1,0 +1,12 @@
+title: '孟子'
+number: 12
+source_type: 'kanripo'
+source_id: 'KR1h0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1h0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 66957
+lines: 14470
+sha256: 'da842cbd5f1a00a0b66762e51084802a4e72f82197d0038bdecb40b8e52f6963'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

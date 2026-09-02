@@ -1,0 +1,12 @@
+title: '三略'
+number: 37
+source_type: 'kanripo'
+source_id: 'KR3b0007'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0007'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 5734
+lines: 578
+sha256: '0e6f855ecadd50356605c9508071cb717f0db3e8859f929bc4cdde0093cd2e20'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

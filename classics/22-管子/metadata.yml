@@ -1,0 +1,12 @@
+title: '管子'
+number: 22
+source_type: 'kanripo'
+source_id: 'KR3c0001'
+source_urls:
+  - 'https://github.com/kanripo/KR3c0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 226735
+lines: 13830
+sha256: '963d75ca58b2b6d83a56dc7c2753ad9d7e7731f5afd92e3cd4b3dd49325240a8'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

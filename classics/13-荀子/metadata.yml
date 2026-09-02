@@ -1,0 +1,12 @@
+title: '荀子'
+number: 13
+source_type: 'kanripo'
+source_id: 'KR3a0002'
+source_urls:
+  - 'https://github.com/kanripo/KR3a0002'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 195291
+lines: 13862
+sha256: 'd523dcf2058574de7022ea976ae318e2f181e2f6e1748285f3428fae7e5c9b37'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

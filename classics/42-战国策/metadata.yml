@@ -1,0 +1,12 @@
+title: '战国策'
+number: 42
+source_type: 'kanripo'
+source_id: 'KR2e0003'
+source_urls:
+  - 'https://github.com/kanripo/KR2e0003'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 344120
+lines: 22312
+sha256: '49b8b38c350e34fa499d182856452dfd90e624f6fec7caf1de5f3ed4ebcc85d1'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

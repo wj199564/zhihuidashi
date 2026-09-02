@@ -1,0 +1,12 @@
+title: '韩非子'
+number: 27
+source_type: 'kanripo'
+source_id: 'KR3c0005'
+source_urls:
+  - 'https://github.com/kanripo/KR3c0005'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 141918
+lines: 12022
+sha256: '7ec494e4e35de63ccdeef5e4009dd06298a7bce0b0dedfdda61d7c8e5d5e80eb'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

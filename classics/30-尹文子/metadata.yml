@@ -1,0 +1,12 @@
+title: '尹文子'
+number: 30
+source_type: 'kanripo'
+source_id: 'KR3j0004'
+source_urls:
+  - 'https://github.com/kanripo/KR3j0004'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 8096
+lines: 680
+sha256: '3d9defdf4fa2260d7922653ba1967d395d7d6927293d1e03cb2fefd4a080b68d'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

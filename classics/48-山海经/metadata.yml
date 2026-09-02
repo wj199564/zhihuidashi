@@ -1,0 +1,12 @@
+title: '山海经'
+number: 48
+source_type: 'kanripo'
+source_id: 'KR3l0090'
+source_urls:
+  - 'https://github.com/kanripo/KR3l0090'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 68709
+lines: 5192
+sha256: '680b24bf6f2f797750a2f97a500d5ebf31000d1ed5d35a1e40a1f04343956a03'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

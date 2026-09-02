@@ -1,0 +1,12 @@
+title: '左传'
+number: 8
+source_type: 'kanripo'
+source_id: 'KR1e0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1e0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 410088
+lines: 91249
+sha256: '436221f644bf2c04f8b065719d54f2aab70c24b0fe3ab1569ae2fad16d9c08de'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

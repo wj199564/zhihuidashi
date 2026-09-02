@@ -1,0 +1,12 @@
+title: '竹书纪年'
+number: 44
+source_type: 'kanripo'
+source_id: 'KR2b0001'
+source_urls:
+  - 'https://github.com/kanripo/KR2b0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 20428
+lines: 2550
+sha256: 'b61880c04a762d0cfb3aa6f33ae2f67795f908f9e5692fb40ee1bb45078e1f79'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

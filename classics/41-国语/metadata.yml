@@ -1,0 +1,12 @@
+title: '国语'
+number: 41
+source_type: 'kanripo'
+source_id: 'KR2e0001'
+source_urls:
+  - 'https://github.com/kanripo/KR2e0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 180258
+lines: 10828
+sha256: '64d409fa7d035cf16f7edfd51d2dd692436a28d9a74cd190dc8bde22f704987f'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

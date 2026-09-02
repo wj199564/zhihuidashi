@@ -1,0 +1,12 @@
+title: '素书'
+number: 38
+source_type: 'kanripo'
+source_id: 'KR3b0009'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0009'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 8420
+lines: 984
+sha256: '671fe6365302070ff5141ed24368c478a144270ff9c0d1c2d0bc51252743944a'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

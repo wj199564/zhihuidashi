@@ -1,0 +1,12 @@
+title: '吴子'
+number: 33
+source_type: 'kanripo'
+source_id: 'KR3b0004'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0004'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 5518
+lines: 522
+sha256: 'cc35bafd22020776e7a030826404d63498c00df340f307df5b2998b1f8f8f825'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '逸周书'
+number: 43
+source_type: 'kanripo'
+source_id: 'KR2d0001'
+source_urls:
+  - 'https://github.com/kanripo/KR2d0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 54162
+lines: 3920
+sha256: 'a37463eb5e0dc425c37e044820ea85b768c99cb5468308e7083e1a4103e2b40d'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

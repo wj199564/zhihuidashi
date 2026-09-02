@@ -1,0 +1,12 @@
+title: '孔子家语'
+number: 17
+source_type: 'kanripo'
+source_id: 'KR3a0001'
+source_urls:
+  - 'https://github.com/kanripo/KR3a0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 89821
+lines: 8596
+sha256: '5eccf8186903f63d485e06e69fb53594a27f9b50fee9d213643cdb9a7dba968b'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '孙膑兵法'
+number: 40
+source_type: 'wikisource'
+source_id: ''
+source_urls:
+  - 'https://zh.wikisource.org/wiki/%E5%AD%AB%E8%87%8F%E5%85%B5%E6%B3%95'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 14945
+lines: 344
+sha256: '78319103848f35e006ff3539be356d11e37d23bccfa58403cf486c9d7986d7a4'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

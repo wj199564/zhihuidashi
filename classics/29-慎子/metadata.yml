@@ -1,0 +1,14 @@
+title: '慎子'
+number: 29
+source_type: 'wikisource'
+source_id: ''
+source_urls:
+  - 'https://zh.wikisource.org/wiki/%E6%85%8E%E5%AD%90_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%85%A7%E7%AF%87%E4%B8%80%E5%8D%B7'
+  - 'https://zh.wikisource.org/wiki/%E6%85%8E%E5%AD%90_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%A4%96%E7%AF%87%E4%B8%80%E5%8D%B7'
+  - 'https://zh.wikisource.org/wiki/%E6%85%8E%E5%AD%90_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%85%A7%E7%AF%87%E6%A0%A1%E6%96%87%E4%B8%80%E5%8D%B7'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 16656
+lines: 1500
+sha256: '7b50018a0b068a65de9cf20fe1fbffbff7bcb379221371ef1a340c5af9c9ecd5'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

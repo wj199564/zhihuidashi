@@ -1,0 +1,12 @@
+title: '周易'
+number: 1
+source_type: 'kanripo'
+source_id: 'KR1a0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1a0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 49270
+lines: 12640
+sha256: '039fcdc2c8756fd1493c53cd5b8fbb746cebea4adc11b52a2f236ccfa250882a'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '列子'
+number: 20
+source_type: 'kanripo'
+source_id: 'KR5c0124'
+source_urls:
+  - 'https://github.com/kanripo/KR5c0124'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 55627
+lines: 11998
+sha256: 'cebdd5babbd053da28c9b36f386febdbf3584e17fbeb4d0222393362386d6b50'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

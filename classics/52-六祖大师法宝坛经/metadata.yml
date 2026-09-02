@@ -1,0 +1,12 @@
+title: '六祖大师法宝坛经'
+number: 52
+source_type: 'kanripo'
+source_id: 'KR6q0083'
+source_urls:
+  - 'https://github.com/kanripo/KR6q0083'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 39207
+lines: 3619
+sha256: '00d745a7aa74497b6ef28dde34afd6ad4066d7e0c6f0d2a3c59fafab86bb944c'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

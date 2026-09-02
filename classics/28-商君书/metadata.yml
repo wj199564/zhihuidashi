@@ -1,0 +1,12 @@
+title: '商君书'
+number: 28
+source_type: 'kanripo'
+source_id: 'KR3c0004'
+source_urls:
+  - 'https://github.com/kanripo/KR3c0004'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 23761
+lines: 2302
+sha256: 'f284d18799f6a47a179cbe6a80d76df7968cd889a853ad250d09663b39e3c6fd'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

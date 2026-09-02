@@ -1,0 +1,12 @@
+title: '鹖冠子'
+number: 24
+source_type: 'kanripo'
+source_id: 'KR3j0006'
+source_urls:
+  - 'https://github.com/kanripo/KR3j0006'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 44668
+lines: 2696
+sha256: 'f040202821b494380dc1c5c45bed553ff62ba90ca7ac3556d5e1256b1eca5dd8'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

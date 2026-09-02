@@ -1,0 +1,12 @@
+title: '孝经'
+number: 16
+source_type: 'kanripo'
+source_id: 'KR1f0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1f0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 3526
+lines: 765
+sha256: '81baba3b34c3825aa098d91a40e96b1113e44d9e79d4896d14438550627b4d37'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

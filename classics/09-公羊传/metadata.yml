@@ -1,0 +1,12 @@
+title: '公羊传'
+number: 9
+source_type: 'kanripo'
+source_id: 'KR1e0006'
+source_urls:
+  - 'https://github.com/kanripo/KR1e0006'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 507221
+lines: 33212
+sha256: 'f3b6722567bb50d0da44f206de376c755d63bdfefd6d72ce41b430bdff0199ad'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '中庸'
+number: 15
+source_type: 'kanripo_single'
+source_id: 'KR1d0052'
+source_urls:
+  - 'https://github.com/kanripo/KR1d0052/blob/master/KR1d0052_032.txt'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 6756
+lines: 1515
+sha256: '42081348b6b8219e657477544fb0a7b1e090db82c691deca24ddaf438dc3ec74'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

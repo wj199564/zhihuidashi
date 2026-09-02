@@ -1,0 +1,12 @@
+title: '周易参同契'
+number: 25
+source_type: 'kanripo'
+source_id: 'KR5d0016'
+source_urls:
+  - 'https://github.com/kanripo/KR5d0016'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 30945
+lines: 3954
+sha256: 'a31cfd6d1cc94907753c299d08ac33104c4aa2375c193450a79e8648462baec8'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

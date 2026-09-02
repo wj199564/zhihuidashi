@@ -1,0 +1,12 @@
+title: '礼记'
+number: 6
+source_type: 'kanripo'
+source_id: 'KR1d0052'
+source_urls:
+  - 'https://github.com/kanripo/KR1d0052'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 192027
+lines: 43588
+sha256: '22822291a4bd335b14ed41cd289a2dcbc6cd0fd045da29f2800959bbf4e4d998'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

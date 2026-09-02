@@ -1,0 +1,12 @@
+title: '维摩诘所说经'
+number: 51
+source_type: 'kanripo'
+source_id: 'KR6i0076'
+source_urls:
+  - 'https://github.com/kanripo/KR6i0076'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 40123
+lines: 4130
+sha256: '003d40af59af8d1f1bd5cf76c4a59dba8be04210072da3195835514ac804aa86'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

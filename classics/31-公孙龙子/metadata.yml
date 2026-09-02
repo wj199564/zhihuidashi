@@ -1,0 +1,12 @@
+title: '公孙龙子'
+number: 31
+source_type: 'kanripo'
+source_id: 'KR3j0007'
+source_urls:
+  - 'https://github.com/kanripo/KR3j0007'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 11923
+lines: 728
+sha256: '0ca003ae79b8b73f26b2e3f899b07f7e59adfeb8e346889666e885dad3248884'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

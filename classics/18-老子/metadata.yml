@@ -1,0 +1,12 @@
+title: '老子'
+number: 18
+source_type: 'webbin'
+source_id: ''
+source_urls:
+  - 'https://github.com/webbin/chinese-classics'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 7423
+lines: 165
+sha256: '258f0f6ebdc8bf7f118a7bafd6c358aa8ad0f7008d9bbf0b2cbaa5742ead87ca'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

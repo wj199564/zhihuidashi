@@ -1,0 +1,12 @@
+title: '大学'
+number: 14
+source_type: 'kanripo_single'
+source_id: 'KR1d0052'
+source_urls:
+  - 'https://github.com/kanripo/KR1d0052/blob/master/KR1d0052_043.txt'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 3161
+lines: 676
+sha256: 'b02b72d5e7a604ec841ca72fe3740617d2b9c0d0f421c03f8dc5cc349228ce10'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

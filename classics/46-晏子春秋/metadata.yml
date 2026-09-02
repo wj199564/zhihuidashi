@@ -1,0 +1,12 @@
+title: '晏子春秋'
+number: 46
+source_type: 'kanripo'
+source_id: 'KR2g0003'
+source_urls:
+  - 'https://github.com/kanripo/KR2g0003'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 60963
+lines: 6322
+sha256: '353289c546629e8756477e9692b4acc4867225ae0664bf44b968b7c4069124b1'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

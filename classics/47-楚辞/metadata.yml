@@ -1,0 +1,12 @@
+title: '楚辞'
+number: 47
+source_type: 'kanripo'
+source_id: 'KR4a0002'
+source_urls:
+  - 'https://github.com/kanripo/KR4a0002'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 221674
+lines: 11840
+sha256: 'bb723b9546204e475b06b3b823d3d9be663b29d32f9634558d8c8a2ee6f8be22'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

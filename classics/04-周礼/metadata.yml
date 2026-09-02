@@ -1,0 +1,12 @@
+title: '周礼'
+number: 4
+source_type: 'kanripo'
+source_id: 'KR1d0001'
+source_urls:
+  - 'https://github.com/kanripo/KR1d0001'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 94645
+lines: 21840
+sha256: '39c5c77ce4154f3f2ee58294662544e6616329e4fb4a892651d5db30e51232af'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

@@ -1,0 +1,12 @@
+title: '尉缭子'
+number: 35
+source_type: 'kanripo'
+source_id: 'KR3b0006'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0006'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 11776
+lines: 1112
+sha256: '5094ae16fbbde3e27a4cb297d6e243b9b22645917a8df8deb939014171cc2685'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

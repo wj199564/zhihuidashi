@@ -1,0 +1,12 @@
+title: '六韬'
+number: 36
+source_type: 'kanripo'
+source_id: 'KR3b0002'
+source_urls:
+  - 'https://github.com/kanripo/KR3b0002'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 20366
+lines: 1956
+sha256: 'a43e7a5c1522be36c0f0882b779f253e8ecdc83fe04ce65c1741fde3f1a6334a'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'

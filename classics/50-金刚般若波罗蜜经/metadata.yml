@@ -1,0 +1,12 @@
+title: '金刚般若波罗蜜经'
+number: 50
+source_type: 'kanripo'
+source_id: 'KR6c0023'
+source_urls:
+  - 'https://github.com/kanripo/KR6c0023'
+retrieved: '2026-09-02'
+encoding: 'UTF-8'
+characters_including_whitespace: 7956
+lines: 865
+sha256: '57dbe673e91cf7f896f09ae30548277ac05dafa325be0554cac3c471405ef2c0'
+license_note: 'Ancient source text; digital transcription attribution and upstream terms retained via source URLs. Kanripo texts are distributed as CC BY-SA; Wikisource text is CC BY-SA.'
